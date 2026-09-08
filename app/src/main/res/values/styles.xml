@@ -1,0 +1,8 @@
+<resources>
+  <style name="Theme.TvLive" parent="android:style/Theme.Material.NoActionBar">
+    <item name="android:fontFamily">sans</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:colorAccent">#62D7A4</item>
+    <item name="android:windowActionModeOverlay">true</item>
+  </style>
+</resources>
